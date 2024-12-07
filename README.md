@@ -1,7 +1,7 @@
 # self-supervised-learning
 자습
 
-## Notebooks
+## KNOU
 
 ### List
 * Dec 7, 2024    
