@@ -1,4 +1,4 @@
-# self-supervised-learning
+# self-guided-learning
 자습
 
 ## KNOU
