@@ -1,15 +1,15 @@
 # self-directed-learning
 자습
 
-## KNOU
+## 📚 KNOU
 
-### List
+### 📅 List
 * Dec 7, 2024    
  KNOU Deep Learning, Ch7 Autoencoder & GAN
 * Dec 8, 2024    
  KNOU Machine Learning, Ch14 Reinforcement Learning
 
-## License
+## 📄 License
 All presentation materials in this repository are licensed under  
 **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
 
